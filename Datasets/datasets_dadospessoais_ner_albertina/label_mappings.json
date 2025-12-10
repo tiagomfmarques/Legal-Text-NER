@@ -1,0 +1,12 @@
+{
+  "label2id": {
+    "O": 0,
+    "B-PERSONAL": 1,
+    "I-PERSONAL": 2
+  },
+  "id2label": {
+    "0": "O",
+    "1": "B-PERSONAL",
+    "2": "I-PERSONAL"
+  }
+}
