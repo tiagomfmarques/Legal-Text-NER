@@ -8,6 +8,14 @@ O trabalho permite:
 - Treinar modelos NER usando dados anotados no formato JSON.
 - Avaliar o desempenho do modelo em termos de precision, recall e F1-score.
 
+**Input:**  
+> *Maria Sousa examinou o Decreto-Lei nº 45/2023, referenciando a súmula do Supremo Tribunal de Justiça.*
+
+**Output do Modelo:**
+
+> **Pessoas:** Maria Sousa  
+> **Legislação:** Decreto-Lei nº 45/2023  
+> **Local:** Supremo Tribunal de Justiça
 
 ### Elaborado por:
 ![Universidade](https://img.shields.io/badge/Universidade%20da%20Beira%20Interior-1E90FF?style=for-the-badge)  
