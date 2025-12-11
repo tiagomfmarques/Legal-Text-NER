@@ -6,7 +6,7 @@ Este projeto tem como objetivo explorar a extração automática de entidades no
 O trabalho permite:
 - Identificar automaticamente entidades relevantes em textos jurídicos.
 - Treinar modelos NER usando dados anotados no formato JSON.
-- Avaliar o desempenho do modelo em termos de precisão, recall e F1-score.
+- Avaliar o desempenho do modelo em termos de precision, recall e F1-score.
 
 
 ### Elaborado por:
