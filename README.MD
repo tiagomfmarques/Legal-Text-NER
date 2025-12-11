@@ -8,6 +8,8 @@ O trabalho permite:
 - Treinar modelos NER usando dados anotados no formato JSON.
 - Avaliar o desempenho do modelo em termos de precision, recall e F1-score.
 
+## Exemplo de Extração de Entidades
+
 **Input:**  
 > *Maria Sousa examinou o Decreto-Lei nº 45/2023, referenciando a súmula do Supremo Tribunal de Justiça.*
 
